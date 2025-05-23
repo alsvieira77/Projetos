@@ -1,0 +1,44 @@
+body {
+  background: rgb(248, 132, 0);
+  font: normal 15pt Arial;
+}
+
+header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font: bold 30pt Georgia;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+ 
+
+}
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+  text-align: center;
+}
+
+#tab {
+  width: 200px;
+}
+
+#seltab {
+  width: 200px;
+  height: 250px;
+  font-size: 10pt;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#gerar {
+  background-color: rgb(248, 132, 0);
+  border-radius: 3px;
+}
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
