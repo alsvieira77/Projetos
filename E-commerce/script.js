@@ -1,6 +1,6 @@
 /*Array de produtos*/
 const produtos = [
-  { id: 1, nome: "Produto A", preco: 10.0, image: "https://imgur.com/DKMOlOt" },
+  { id: 1, nome: "Produto A", preco: 10.0, image: "/images/mulher1.png" },
   { id: 2, nome: "Produto B", preco: 20.0, image: "/images/homem.png" },
   { id: 3, nome: "Produto C", preco: 30.0, image: "/images/mulher2.png" },
 ];
