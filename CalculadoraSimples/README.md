@@ -26,6 +26,8 @@ Uma calculadora aritmética desenvolvida com **HTML, CSS e JavaScript puro**, co
 
 2. Acesse a pasta e abra o arquivo calculadora.html no navegador.
 
+3. Link para o Projeto: [Calculadora Simples](https://alsvieira77.github.io/Projetos/CalculadoraSimples/calculadora.html)
+
 Feito por [André Vieira](https://www.linkedin.com/in/andrevieira)  
 🔗 [github.com/andrevieira77](https://github.com/andrevieira77)
 
