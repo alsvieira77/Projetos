@@ -43,3 +43,5 @@ Clone o repositório ou baixe o ZIP.
 Abra o arquivo index.html no navegador.
 
 O projeto está pronto para visualização e testes.
+
+[** Testar o projeto Online**](https://alsvieira77.github.io/Projetos/E-commerce/index.html)
