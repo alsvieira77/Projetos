@@ -29,7 +29,9 @@ Validação mais robusta dos campos
 
 Design responsivo
 
-Publicação em uma plataforma online
+----
+
+Link para o projeto [Calculadora de IMC](https://alsvieira77.github.io/Projetos/Calculadora-IMC/index.html)
 
 Feito por [André Vieira](https://www.linkedin.com/in/andrevieira)  
 🔗 [github.com/andrevieira77](https://github.com/andrevieira77)
