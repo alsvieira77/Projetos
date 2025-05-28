@@ -37,5 +37,7 @@ Projeto desenvolvido para praticar JavaScript, com foco na manipulação do DOM,
 
 Este projeto foi desenvolvido como parte dos estudos no Curso em Vídeo, ministrado pelo professor Gustavo Guanabara, com o objetivo de consolidar conhecimentos fundamentais em JavaScript e boas práticas de desenvolvimento web.
 
+Link para o projeto [Tabuada](https://alsvieira77.github.io/Projetos/Tabuada/index.html)
+
 Feito por [André Vieira](https://www.linkedin.com/in/andrevieira)  
 🔗 [github.com/andrevieira77](https://github.com/andrevieira77)
